@@ -38,7 +38,11 @@ section {
 	/*background-attachment: fixed;*/
 }
 
-
+.brand {
+	width: 75%;
+	margin-top: 200px;
+	margin-left: 100px;
+}
 
 /* MODALITIES SECTION */
 .modalities {
@@ -57,14 +61,14 @@ footer {
 /* ANIMATION */
 
 .animated {
-  animation-duration: 10s;
+  animation-duration: 15s;
   animation-fill-mode: both;
 }
 
 @keyframes fadeInDown {
   from {
 	opacity: 0;
-	transform: translate3d(0, -150%, 0);
+	transform: translate3d(0, -300%, 0);
   }
 
   to {
