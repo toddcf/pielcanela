@@ -18,8 +18,23 @@ body {
 	padding: 0;
 }
 
-.hero {
+section {
 	height: 100vh;
+}
+
+.hero {
 	background-image: url(../img/hands-xl.jpg);
 	background-size: cover;
+}
+
+.modalities {
+	background-color: #000;
+}
+
+.pricing {
+	background-color: #555;
+}
+
+footer {
+	background-color: #000;
 }
