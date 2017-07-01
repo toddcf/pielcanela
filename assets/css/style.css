@@ -23,8 +23,12 @@ section {
 }
 
 .hero {
-	background-image: url(../img/hands-xl.jpg);
-	background-size: cover;
+	background-image: -webkit-gradient(linear, left top, left bottom, from(rgba(0, 0, 0, 0.5)), to(rgba(0, 0, 0, 0.5))) , url(../img/hands-xl.jpg);
+	background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)) , url(../img/hands-xl.jpg);
+	background-size: cover; /*Shows entire image*/
+	background-position: center; /*Centers the background*/
+	height: 100vh; /*Sets header height to match viewport height:*/
+	/*background-attachment: fixed;*/
 }
 
 .modalities {
@@ -37,4 +41,5 @@ section {
 
 footer {
 	background-color: #000;
+	height: 200px;
 }
