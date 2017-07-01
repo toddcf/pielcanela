@@ -13,6 +13,7 @@ Official Piel Canela Massage Therapy website.
 
 - Choose font.
 - HERO section:
-  - Fade in and descend the brand name.
+  - Position brand name.
+  - Replace bg image with a video (once we have the video).
 - Mobile Responsiveness.
   - Mobile Nav.

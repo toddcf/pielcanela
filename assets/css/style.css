@@ -28,6 +28,7 @@ section {
 	height: 100vh;
 }
 
+/* HERO SECTION */
 .hero {
 	background-image: -webkit-gradient(linear, left top, left bottom, from(rgba(0, 0, 0, 0.4)), to(rgba(0, 0, 0, 0.4))) , url(../img/hands-xl.jpg);
 	background-image: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)) , url(../img/hands-xl.jpg);
@@ -37,6 +38,9 @@ section {
 	/*background-attachment: fixed;*/
 }
 
+
+
+/* MODALITIES SECTION */
 .modalities {
 	background-color: #000;
 }
@@ -48,4 +52,27 @@ section {
 footer {
 	background-color: #000;
 	height: 200px;
+}
+
+/* ANIMATION */
+
+.animated {
+  animation-duration: 10s;
+  animation-fill-mode: both;
+}
+
+@keyframes fadeInDown {
+  from {
+	opacity: 0;
+	transform: translate3d(0, -150%, 0);
+  }
+
+  to {
+	opacity: 1;
+	transform: none;
+  }
+}
+
+.fadeInDown {
+  animation-name: fadeInDown;
 }
