@@ -20,7 +20,7 @@ body {
 }
 
 h1 {
-	font-size: 80px;
+	font-size: 400%;
 	font-weight: 300;
 }
 
@@ -46,10 +46,22 @@ section {
 
 /* MODALITIES SECTION */
 .modalities {
+	background-color: #555;
+}
+
+/* ABOUT SECTION */
+
+.about-section {
+	
+}
+
+/* PRICING SECTION */
+.pricing {
 	background-color: #000;
 }
 
-.pricing {
+/* EMAIL LIST SECTION */
+.email-list {
 	background-color: #555;
 }
 
