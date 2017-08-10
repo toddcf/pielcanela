@@ -19,61 +19,76 @@ The Official Piel Canela Massage Therapy website.
   - One layout for full-screen devices.
 3. Write content.
 4. Choose font for entire site.
+5. Social links in each section.
+  - Facebook
+  - Instagram
+  - Email List (later)
+6. Nav that is accessible no matter where you are scrolling.
 
-### Hero - Section
+### Sections
 
-- Add Nav.
-- HERO section:
+1. Hero
   - Position brand name.
   - Replace bg image with a video (once we have the video).
-  - Add buttons that scroll to two different sections.
+  - Add buttons that scroll to two different sections:
+    - Schedule Now
+    - Learn More
 
-### Benefits of Massage - Section
+2. About the Therapist
 
-### Testimonials - Section
+3. Benefits of Massage
+  - Plain English.
+  - Overcome any objections (expensive, time-consuming, etc.).
+  - Why they need a massage.
+  - Why you are the best massage therapist for them.
 
-### Services and Rates / Massage Modalities / Gift Certificates - Section
+4. Testimonials
 
-- Forms of payment accepted.
+5. Services and Rates / Gift Certificates
+  - Delete Modalities.
+  - Forms of payment accepted.
 
-### Legal (Separate Page?)
+6. Schedule Now / Contact Info / Client Forms
 
-- Cancellation Policy
-- 24-Hour Advance Notice
-- No-Shows
-- Late Arrivals
-- Certifications
-- Insurance
-- Client Forms (links to separate PDF pages)
+- Phone Number.
+- Email Address.
+- Email Form.
+- Links to client forms as separate PDF pages.
 
-### Social
-
-- Facebook
-- Instagram
-- Email List
-
-### About the Therapist - Section
-
-### Massage FAQ (Separate Page)
-
-### Book Now / Contact Info / Client Forms
-
-- Phone Number
-- Email Address
-- Email Form
-- Client forms are links to separate PDF pages.
-
-### Footer
+7. Footer
 
 - Nav
 - Social links
   - Facebook
   - Instagram
-- Copyright
+- Copyright (years) Brenda Canela Croak-Falen
 - TCF Web Design
+
+### Separate Pages
+
+1. Massage FAQ
+  - Plain English.
+
+2. Legal
+  - Cancellation Policy
+  - 24-Hour Advance Notice
+  - No-Shows
+  - Late Arrivals
+  - Massage Certifications
+  - Insurance
+  - Links to client forms as separate PDF pages.
 
 ### Mobile Responsiveness
 
 - Mobile Nav.
 
+### Deployment
+
+1. Test deploy to Heroku.
+2. Get confirmation from Brenda.
+3. Deploy to GoDaddy.
+4. Have GoDaddy link the old URL to the new URL (instead of the other way around, like it is now).
+
 ## Future Iterations:
+
+- Create MailChimp list and add signup form to this website.
