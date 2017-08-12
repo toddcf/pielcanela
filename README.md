@@ -80,8 +80,6 @@ The Official Piel Canela Massage Therapy website.
 
 ### Mobile Responsiveness
 
-- Mobile Nav.
-
 ### Deployment
 
 1. Test deploy to Heroku.
