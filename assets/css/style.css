@@ -25,7 +25,7 @@ h1 {
 }
 
 section {
-	height: 100vh;
+	min-height: 100vh;
 }
 
 /* HERO SECTION */
@@ -44,24 +44,42 @@ section {
 	margin-left: 100px;
 }
 
-/* MODALITIES SECTION */
-.modalities {
+/* ABOUT THE THERAPIST SECTION */
+
+.about-therapist {
 	background-color: #555;
 }
 
-/* ABOUT SECTION */
+/* BENEFITS OF MASSAGE SECTION */
 
-.about-section {
-	
+.benefits {
+
 }
 
-/* PRICING SECTION */
-.pricing {
+/* TESTIMONIALS SECTION */
+.testimonials {
+
+}
+
+.flex-container {
+	width: 80%;
+	height: auto;
+	display: flex;
+	flex-direction: row;
+	flex-wrap: wrap;
+	/*flex-flow: */
+	justify-content: space-evenly;
+	align-items: flex-start;
+	align-content: flex-start;
+}
+
+/* SERVICES & RATES SECTION */
+.rates {
 	background-color: #000;
 }
 
-/* EMAIL LIST SECTION */
-.email-list {
+/* SCHEDULE NOW SECTION */
+.schedule {
 	background-color: #555;
 }
 
