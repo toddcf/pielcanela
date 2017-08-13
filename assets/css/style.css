@@ -20,6 +20,8 @@ body {
 }
 
 h1 {
+	margin: 0;
+	padding: 40px;
 	font-size: 400%;
 	font-weight: 300;
 }
@@ -61,10 +63,14 @@ section {
 
 }
 
+.testimonials h1 {
+	color: #555;
+}
+
 /* FLEXBOX */
 .flex-container {
 	margin: 0 auto;
-	width: 75%;
+	width: 70%;
 	height: auto;
 	padding-top: 40px;
 	padding-bottom: 40px;
@@ -79,7 +85,7 @@ section {
 
 .flex-items {
 	color: #555;
-	width: 33%;
+	width: 45%;
 	height: auto;
 	padding: 30px;
 	text-align: justify;
@@ -93,12 +99,12 @@ section {
 	flex: 0 1 auto;
 }
 
-#tania,
+/*#tania,
 #amelia,
 #dania {
 	flex-grow: 2;
 	width: 40%;
-}
+}*/
 
 blockquote {
 	padding-bottom: 25px;
