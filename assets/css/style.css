@@ -76,7 +76,9 @@ section {
 
 .flex-items {
 	color: #555;
+	width: 25%;
 	flex-grow: 1;
+	flex: 0 1 auto;
 }
 
 /* SERVICES & RATES SECTION */
