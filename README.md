@@ -2,6 +2,8 @@
 
 The Official Piel Canela Massage Therapy website.
 
+![Piel Canela Massage Therapy](https://github.com/toddcf/pielcanela/blob/master/assets/img/hands-large.jpg "Piel Canela Massage Therapy")
+
 ## Technologies Used
 
 - HTML5.
