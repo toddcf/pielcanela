@@ -13,10 +13,7 @@ html {
 
 body {
 	font-family: 'Lato', sans-serif, arial;
-	/*font-family: 'Oxygen', sans-serif, arial;*/
 	font-size: 20px;
-	margin: 0;
-	padding: 0;
 }
 
 h1 {
@@ -36,8 +33,6 @@ section {
 	background-image: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)) , url(../img/hands-xl.jpg);
 	background-size: cover; /*Shows entire image*/
 	background-position: center; /*Centers the background*/
-	height: 100vh; /*Sets header height to match viewport height:*/
-	/*background-attachment: fixed;*/
 }
 
 .brand {
@@ -55,7 +50,10 @@ section {
 /* BENEFITS OF MASSAGE SECTION */
 
 .benefits {
-	background-color: #000;
+	background-image: -webkit-gradient(linear, left top, left bottom, from(rgba(0, 0, 0, 0.4)), to(rgba(0, 0, 0, 0.4))) , url(../img/hands-xl.jpg);
+	background-image: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)) , url(../img/hands-xl.jpg);
+	background-size: cover; /*Shows entire image*/
+	background-position: center; /*Centers the background*/
 }
 
 /* TESTIMONIALS SECTION */

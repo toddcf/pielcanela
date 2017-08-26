@@ -25,7 +25,7 @@ The Official Piel Canela Massage Therapy website.
   - Facebook
   - Instagram
   - Email List (later)
-6. Nav that is accessible no matter where you are scrolling.
+6. Fixed-position nav, accessible no matter where you are scrolling.
 
 ### Sections
 
