@@ -1,15 +1,41 @@
 $( document ).ready( function() {
 
-	// FOOTER
+	// Mobile Nav
+	$( ".js--nav-icon" ).click( function() {
+		
+		var nav = $( ".js--main-nav" );
+		var icon = $( ".js--nav-icon i" );
 
-	// Pass current year into footer copyright:
-	var thisYear = new Date().getFullYear();
+		// Open and close the box:
+		nav.slideToggle( 200 );
 
-	if ( thisYear > 2012 ) {
-		// Footer (IIFE):
-		var footerInfo = ( function() {
-			$( ".currentYear" ).html( " &ndash; " + thisYear + "&nbsp;" );
-		}) ();
-	}
+		if ( icon.hasClass( "ion-navicon-round" )) {
+			icon.addClass( "ion-close-round" );
+			icon.removeClass( "ion-navicon-round" );
+		} else {
+			icon.addClass( "ion-navicon-round" );
+			icon.removeClass( "ion-close-round" );
+		}
+		
+	});
+
+	// Waypoints for project testimonials:
+	$( ".js--t1" ).waypoint( function( direction ) {
+			$( ".js--t1" ).addClass( "fadeIn" );
+		}, {
+			offset: "75%"
+		});
+
+	$( ".js--t2" ).waypoint( function( direction ) {
+			$( ".js--t2" ).addClass( "fadeIn" );
+		}, {
+			offset: "75%"
+		});
+
+	$( ".js--t3" ).waypoint( function( direction ) {
+			$( ".js--t3" ).addClass( "fadeIn" );
+		}, {
+			offset: "75%"
+		});
 
 } );
