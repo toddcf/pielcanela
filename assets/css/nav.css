@@ -1,4 +1,4 @@
-/* NAV */
+/* TOP NAV */
 
 /*.top-row { display: inline-block; }*/
 
@@ -58,3 +58,44 @@ nav {
 	list-style: none;
 
 }
+
+/* SOCIAL ICONS */
+
+.social {
+
+	position: absolute;
+	bottom: 20px;
+	right: 20px;
+	height: 64px;
+	width: auto;
+
+}
+
+.social li {
+
+	display: inline-block;
+	/*height: 100%;*/
+	height: 64px;
+	width: 64px;
+	font-size: 64px;
+	color: #c0c0c0;
+
+}
+
+.social-logo {
+
+	height: 64px;
+	/*width: auto;*/
+
+}
+
+#instagram-shrink {
+
+	width: 55px;
+	height: 55px;
+	margin-top: -10px;
+
+}
+
+/* CHEVRONS */
+

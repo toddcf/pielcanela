@@ -15,17 +15,10 @@ The Official Piel Canela Massage Therapy website.
 
 ### All
 
-1. Decide on order of sections and directory map.
-2. Wireframe layout of each section or page.
-  - One layout for mobile devices.
-  - One layout for full-screen devices.
-3. Write content.
-4. Choose font for entire site.
 5. Social links in each section.
   - Facebook
   - Instagram
-  - Email List (later)
-6. Fixed-position nav, accessible no matter where you are scrolling.
+6. Add "up" and "down" chevrons and link them to nav scrolling / Waypoints.
 
 ### Sections
 
@@ -92,4 +85,4 @@ The Official Piel Canela Massage Therapy website.
 
 ## Future Iterations:
 
-- Create MailChimp list and add signup form to this website.
+- Create MailChimp list and add signup form (and icon) to this website.
