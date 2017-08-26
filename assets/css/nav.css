@@ -64,9 +64,9 @@ nav {
 .social {
 
 	position: absolute;
-	bottom: 20px;
-	right: 20px;
-	height: 64px;
+	bottom: 30px;
+	right: 40px;
+	height: 57px;
 	width: auto;
 
 }
@@ -75,16 +75,23 @@ nav {
 
 	display: inline-block;
 	/*height: 100%;*/
-	height: 64px;
-	width: 64px;
-	font-size: 64px;
+	height: 57px;
+	width: 57px;
+	font-size: 57px;
 	color: #c0c0c0;
+
+}
+
+.social li a:hover,
+.social li a:active {
+
+	color: #fff;
 
 }
 
 .social-logo {
 
-	height: 64px;
+	height: 57px;
 	/*width: auto;*/
 
 }
