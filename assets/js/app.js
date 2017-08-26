@@ -1,6 +1,6 @@
 $( document ).ready( function() {
 
-	// Mobile Nav
+	// Nav
 	$( ".js-nav-icon" ).click( function() {
 		
 		var nav = $( ".js-main-nav" );
@@ -10,53 +10,54 @@ $( document ).ready( function() {
 		nav.slideToggle( 200 );
 
 		if ( icon.hasClass( "ion-navicon-round" )) {
+			
 			icon.addClass( "ion-close-round" );
 			icon.removeClass( "ion-navicon-round" );
+
 		} else {
+			
 			icon.addClass( "ion-navicon-round" );
 			icon.removeClass( "ion-close-round" );
+			
 		}
 		
 	});
 
-
-
-
-					// <li><a href="#" class="scroll-to-about-therapist">About the Therapist</a></li>
-					// <li><a href="#" class="scroll-to-benefits">Benefits of Massage</a></li>
-					// <li><a href="#" class="scroll-to-testimonials">Testimonials</a></li>
-					// <li><a href="#" class="scroll-to-rates">Services&nbsp;&amp;&nbsp;Rates</a></li>
-
 	// BUTTON CLICK SCROLLING
 	
-	// I'm Hungry & Plans buttons:
+	// Schedule Now
 	$( ".scroll-to-schedule" ).click( function() {
-		// Select HTML and BODY:
+		
 		$( "html, body" ).animate( { scrollTop: $( "#schedule" ).offset().top }, 1000 );
+
 	});
 
-	// Show Me More & Features buttons:
+	// About Therapist
 	$( ".scroll-to-about-therapist" ).click( function() {
-		// Select HTML and BODY:
+		
 		$( "html, body" ).animate( { scrollTop: $( "#about-therapist" ).offset().top }, 1000 );
+
 	});
 
-	// Works button:
+	// Benefits
 	$( ".scroll-to-benefits" ).click( function() {
-		// Select HTML and BODY:
+		
 		$( "html, body" ).animate( { scrollTop: $( "#benefits" ).offset().top }, 1000 );
+
 	});
 
-	// Cities button:
+	// Testimonials
 	$( ".scroll-to-testimonials" ).click( function() {
-		// Select HTML and BODY:
+		
 		$( "html, body" ).animate( { scrollTop: $( "#testimonials" ).offset().top }, 1000 );
+
 	});
 
-	// Cities button:
+	// Services & Rates
 	$( ".scroll-to-rates" ).click( function() {
-		// Select HTML and BODY:
+		
 		$( "html, body" ).animate( { scrollTop: $( "#rates" ).offset().top }, 1000 );
+
 	});
 
 
