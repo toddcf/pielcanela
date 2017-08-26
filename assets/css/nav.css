@@ -1,0 +1,62 @@
+/* NAV */
+
+header { z-index: 2; }
+
+.top-row { display: inline-block; }
+
+nav {
+
+	float: right;
+	width: 225px; /* Allows the dropdown to descend at full width without having to expand once it reaches the bottom. */
+	height: 57px;
+	position: fixed;
+	top: 20px;
+	right: 20px;
+	z-index: 3;
+
+}
+
+.nav-icon {
+
+	cursor: pointer; /* Without the href inside the <a>, we need to specify this. */
+	border-bottom: none !important;
+	width: 57px;
+	height: 57px;
+	
+}
+
+.nav-icon i {
+
+	font-size: 57px;
+	color: #fff;
+	width: 57px;
+	height: 57px;
+	float: right;
+
+}
+
+.main-nav {
+
+	display: none;
+	float: right; /* Prevents the dropdown from appearing BESIDE the icon when first clicked. */
+
+}
+
+.main-nav a {
+
+	color: #fff;
+	line-height: 225%;
+	border-bottom: none !important;
+
+}
+
+.main-nav li {
+
+	text-align: right;
+	background-color: rgba( 0, 0, 0, 0.5 );
+	width: 100%;
+	padding-right: 20px;
+	float: right;
+	list-style: none;
+
+}

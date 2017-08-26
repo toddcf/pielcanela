@@ -71,7 +71,7 @@ The Official Piel Canela Massage Therapy website.
 1. Massage FAQ
   - Plain English.
 
-2. Legal
+2. Policies
   - Cancellation Policy
   - 24-Hour Advance Notice
   - No-Shows
