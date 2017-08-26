@@ -108,9 +108,20 @@ nav {
 
 .chevron {
 	position: absolute;
-	bottom: 10px;
 	left: 50%;
 	transform: translate(-50%);
+}
+
+.chevron-down {
+
+	bottom: 10px;
+
+}
+
+.chevron-up {
+
+	top: 10px;
+
 }
 
 .chevron a:link,

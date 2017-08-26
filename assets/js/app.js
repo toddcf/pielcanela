@@ -18,12 +18,18 @@ $( document ).ready( function() {
 			
 			icon.addClass( "ion-navicon-round" );
 			icon.removeClass( "ion-close-round" );
-			
+
 		}
 		
 	});
 
 	// BUTTON CLICK SCROLLING
+
+	$( ".scroll-to-top" ).click( function() {
+		
+		$( "html, body" ).animate( { scrollTop: $( "#hero" ).offset().top }, 1000 );
+
+	});
 	
 	// Schedule Now
 	$( ".scroll-to-schedule" ).click( function() {
