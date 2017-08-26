@@ -28,7 +28,7 @@ section {
 }
 
 /* HERO SECTION */
-.hero {
+#hero {
 	background-image: -webkit-gradient(linear, left top, left bottom, from(rgba(0, 0, 0, 0.4)), to(rgba(0, 0, 0, 0.4))) , url(../img/hands-xl.jpg);
 	background-image: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)) , url(../img/hands-xl.jpg);
 	background-size: cover; /*Shows entire image*/
@@ -43,13 +43,13 @@ section {
 
 /* ABOUT THE THERAPIST SECTION */
 
-.about-therapist {
+#about-therapist {
 	background-color: #555;
 }
 
 /* BENEFITS OF MASSAGE SECTION */
 
-.benefits {
+#benefits {
 	background-image: -webkit-gradient(linear, left top, left bottom, from(rgba(0, 0, 0, 0.4)), to(rgba(0, 0, 0, 0.4))) , url(../img/hands-xl.jpg);
 	background-image: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)) , url(../img/hands-xl.jpg);
 	background-size: cover; /*Shows entire image*/
@@ -57,11 +57,11 @@ section {
 }
 
 /* TESTIMONIALS SECTION */
-.testimonials {
+#testimonials {
 
 }
 
-.testimonials h1 {
+#testimonials h1 {
 	color: #555;
 }
 
@@ -113,12 +113,12 @@ blockquote {
 }
 
 /* SERVICES & RATES SECTION */
-.rates {
+#rates {
 	background-color: #000;
 }
 
 /* SCHEDULE NOW SECTION */
-.schedule {
+#schedule {
 	background-color: #555;
 }
 

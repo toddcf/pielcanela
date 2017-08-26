@@ -60,6 +60,7 @@ The Official Piel Canela Massage Therapy website.
 7. Footer
 
 - Nav
+  - Put the same .scroll-to- classes in the footer that are in the top nav.
 - Social links
   - Facebook
   - Instagram
