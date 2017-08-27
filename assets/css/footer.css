@@ -1,128 +1,13 @@
 footer {
+
 	background-color: #000;
-	width: 100%;
-	min-height: 200px;
-	height: auto;
 	padding: 20px 0;
 	line-height: 1.5;
 	font-weight: 300;
 	color: #555;
-}
-
-footer h3 {
-	font-size: 100%;
-	text-align: center;
-	text-transform: uppercase;
-	font-weight: 400;
-	/*color: #555;*/
-	padding: 30px;
-}
-
-/*footer h5 {*/
-
-	/*font-size: 75%;*/
-	/*padding-bottom: 15px;*/
-
-/*}*/
-
-.footer-text {
-	background-color: #000;
-}
-
-.footer-text li {
-	padding-bottom: 25px;
-}
-
-.social-footer {
-
 	text-align: center;
 
 }
-
-.social-footer ul li a i {
-	text-align: center;
-}
-
-.li-contact {
-	text-align: center;
-}
-
-/* Same as nav css -- can it be condensed? */
-.social-footer li {
-
-	display: inline-block;
-	/*height: 100%;*/
-	min-height: 57px;
-	height: auto;
-	min-width: 57px;
-	width: auto;
-	font-size: 57px;
-	color: #c0c0c0;
-	/*padding-bottom: 25px;*/
-
-}
-
-/* Same as nav css -- can it be condensed? */
-.social-footer li a:hover,
-.social-footer li a:active {
-
-	color: #fff;
-
-}
-
-/* Same as nav css -- can it be condensed? */
-.social-logo {
-
-	height: 57px;
-	padding: 25px;
-	/*width: auto;*/
-
-}
-
-
-
-
-
-
-/* ENTIRE FOOTER */
-
-/*footer {
-
-	display: inline-block;
-	margin-bottom: -8px;
-
-}*/
-
-/*footer h5 {
-
-	text-align: center;
-	text-transform: uppercase;
-	font-weight: 400;
-	font-size: 75%;
-	color: #555;
-	padding-bottom: 15px;
-
-}*/
-
-footer ul {
-
-	list-style: none;
-	padding: 20px 0;
-
-}
-
-footer li {
-
-	width: 70%;
-	margin: 0 auto;
-	font-size: 80%;
-	text-align: center;
-	/*color: #555;*/
-	/*padding: 8px 0;*/
-
-}
-
-/* FOOTER LINKS */
 
 footer a:link,
 footer a:visited {
@@ -139,60 +24,58 @@ footer a:visited {
 footer a:hover,
 footer a:active { color: #fff; }
 
-#about { text-align: center; }
-
-#about a,
-.follow a { border-bottom: none; }
-
-/* CONTACT */
-
-/*footer img {
-
-	-webkit-transition: -webkit-transform 0.25s, -webkit-filter 0.25s;
-			transition: -webkit-transform 0.25s, -webkit-filter 0.25s;
-			-o-transition: transform 0.25s, filter 0.25s;
-			transition: transform 0.25s, filter 0.25s;
-			transition: transform 0.25s, filter 0.25s, -webkit-transform 0.25s, -webkit-filter 0.25s;
-			transition: transform 0.25s, filter 0.25s, -webkit-transform 0.25s;
-
-}
-
-footer img:hover,
-footer img:active {
-
-	-webkit-filter: brightness(120%);
-			filter: brightness(120%);		
-	-webkit-transform: scale(1.05);
-	        -ms-transform: scale(1.05);*/
-	    /*transform: scale(1.05);*/ /* When hovering, zoom in to 5%. */
-
-}
-
-.follow {
-
-	max-width: 180px;
-	margin: 20px auto;
-
-}
-
-.follow a {
-
-	display: inline-block;
-	margin-left: 15px;
-
-}
-
-/* LEGAL */
-
-#webdesign a:link,
-#webdesign a:visited { border-bottom: 1px solid #555; /* My own custom underline */ }
-
-#webdesign a:hover,
-#webdesign a:active { border-bottom: 1px solid #fff; }
-
-.currentYear {
+footer h3 {
 
 	font-size: 100%;
-	color: #555;
+	text-transform: uppercase;
+	font-weight: 400;
+	padding: 30px;
+
+}
+
+footer ul {
+
+	list-style: none;
+	padding: 20px 0;
+	width: 70%;
+	margin: 0 auto;
+
+}
+
+footer li {
+
+	padding-bottom: 25px;
+	font-size: 80%;
+
+}
+
+.social-footer {
+
+	padding-bottom: 0px;
+
+}
+
+/* Same as nav css -- can it be condensed? */
+.social-footer li {
+
+	display: inline-block;
+	font-size: 57px;
+	padding-bottom: 10px;
+
+}
+
+/* Same as nav css -- can it be condensed? */
+.social-logo {
+
+	height: 57px;
+	width: 57px;
+	padding: 40px;
+
+}
+
+footer i {
+
+	text-align: center;
+	/*width: 57px;*/
 
 }
