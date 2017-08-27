@@ -9,6 +9,7 @@ html {
 	position: relative;
 	font-size: 20px;
 	color: #fff;
+	letter-spacing: 1px;
 }
 
 body {
@@ -128,11 +129,6 @@ blockquote {
 /* SCHEDULE NOW SECTION */
 #schedule {
 	background-color: #555;
-}
-
-footer {
-	background-color: #000;
-	height: 200px;
 }
 
 /* ANIMATION */

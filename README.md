@@ -45,13 +45,8 @@ The Official Piel Canela Massage Therapy website.
 
 7. Footer
 
-- Nav
-  - Put the same .scroll-to- classes in the footer that are in the top nav.
-- Social links
-  - Facebook
-  - Instagram
-- Copyright (years) Brenda Canela Croak-Falen
-- TCF Web Design
+- Correctly center the social media icons.
+- Get the black background behind everything. (Why is the footer height stuck at 200px no matter what?)
 
 ### Separate Pages
 
