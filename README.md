@@ -13,13 +13,6 @@ The Official Piel Canela Massage Therapy website.
 
 ## Current Iteration:
 
-### All
-
-5. Social links in each section.
-  - Facebook
-  - Instagram
-6. Add "up" and "down" chevrons and link them to nav scrolling / Waypoints.
-
 ### Sections
 
 1. Hero
