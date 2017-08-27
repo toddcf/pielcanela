@@ -13,6 +13,10 @@ The Official Piel Canela Massage Therapy website.
 
 ## Current Iteration:
 
+### All
+
+- Logo SVG in bottom left of each section.
+
 ### Sections
 
 1. Hero
@@ -32,6 +36,8 @@ The Official Piel Canela Massage Therapy website.
 
 4. Testimonials
 
+- Fixed-position background.
+
 5. Services and Rates / Gift Certificates
   - Delete Modalities.
   - Forms of payment accepted.
@@ -42,10 +48,6 @@ The Official Piel Canela Massage Therapy website.
 - Email Address.
 - Email Form.
 - Links to client forms as separate PDF pages.
-
-7. Footer
-
-- Correctly center the social media icons.
 
 ### Separate Pages
 
@@ -73,3 +75,4 @@ The Official Piel Canela Massage Therapy website.
 ## Future Iterations:
 
 - Create MailChimp list and add signup form (and icon) to this website.
+- Footer: Correctly center social media icons.

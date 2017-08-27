@@ -12,7 +12,6 @@ footer {
 footer a:link,
 footer a:visited {
 
-	font-size: 100%;
 	color: #555;
 	text-decoration: none; /* No default underline */
 	-webkit-transition: border-bottom 0.2s, color 0.2s;
@@ -70,12 +69,5 @@ footer li {
 	height: 57px;
 	width: 57px;
 	padding: 40px;
-
-}
-
-footer i {
-
-	text-align: center;
-	/*width: 57px;*/
 
 }
