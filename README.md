@@ -28,6 +28,9 @@ The Official Piel Canela Massage Therapy website.
 
 2. About the Therapist
 
+  - CAMTC #30305
+  - ABMP #766335
+
 3. Benefits of Massage
   - Plain English.
   - Overcome any objections (expensive, time-consuming, etc.).
