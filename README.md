@@ -46,7 +46,6 @@ The Official Piel Canela Massage Therapy website.
 7. Footer
 
 - Correctly center the social media icons.
-- Get the black background behind everything. (Why is the footer height stuck at 200px no matter what?)
 
 ### Separate Pages
 
