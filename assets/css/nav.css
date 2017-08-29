@@ -59,6 +59,18 @@ nav {
 
 }
 
+/* PIEL CANELA LOGO */
+
+.piel-logo {
+	
+	position: absolute;
+	bottom: 0;
+	left: 0;
+	width: 200px;
+	color: #c0c0c0;
+
+}
+
 /* SOCIAL ICONS */
 
 .social {
