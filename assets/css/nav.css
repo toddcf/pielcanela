@@ -42,10 +42,19 @@ nav {
 
 .main-nav a {
 
-	color: #fff;
 	line-height: 225%;
 	border-bottom: none !important;
 
+}
+
+.main-nav a:link,
+.main-nav a:visited {
+	color: #c0c0c0;
+}
+
+.main-nav a:hover,
+.main-nav a:active {
+	color: #fff;
 }
 
 .main-nav li {

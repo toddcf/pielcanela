@@ -113,6 +113,34 @@ input[type=submit] {
 	background-color: #555;
 }
 
+.profile-img {
+	width: 90%;
+	margin: 0 0 0 auto;
+}
+
+.profile-img img {
+	width: 100%;
+}
+
+.profile-img figcaption {
+	text-align: center;
+	padding: 10px;
+}
+
+.bio {
+	margin-bottom: 100px;
+	padding-right: 150px;
+	padding-left: 50px;
+	text-align: justify;
+	line-height: 1.5;
+	font-weight: 300;
+
+}
+
+.bio p {
+	padding-bottom: 20px; 
+}
+
 /* BENEFITS OF MASSAGE SECTION */
 
 #benefits {
