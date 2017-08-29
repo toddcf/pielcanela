@@ -15,8 +15,7 @@ The Official Piel Canela Massage Therapy website.
 
 ### All
 
-1. Add "Schedule Now" button next to social icons at the bottom of each section (except for hero section and schedule now section).
-  1. Make sure it scrolls to that section.
+1. Correctly position the section-footer's SCHEDULE NOW button (and the social links).
 2. Confirm font.
 
 ### Sections
