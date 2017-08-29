@@ -24,7 +24,7 @@ a {
 
 h1 {
 	margin: 0;
-	padding: 40px;
+	padding: 60px 40px;
 	font-size: 400%;
 	font-weight: 300;
 }
@@ -46,7 +46,7 @@ section {
 
 .brand {
 	width: 75%;
-	margin-top: 200px;
+	margin-top: 150px;
 	margin-left: 100px;
 }
 
