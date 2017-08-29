@@ -170,7 +170,7 @@ input[type=submit] {
 
 /* FLEXBOX */
 .flex-container {
-	margin: 0 auto;
+	margin: 0 auto 100px auto;
 	width: 70%;
 	height: auto;
 	padding-top: 40px;

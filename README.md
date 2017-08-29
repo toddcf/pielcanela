@@ -68,6 +68,14 @@ The Official Piel Canela Massage Therapy website.
 
 ### Mobile Responsiveness
 
+### Dummy Checks
+
+1. Make sure the following are visible against all their various backgrounds:
+  1. Chevrons
+  2. Nav Icon
+  3. Piel Canela Massage Therapy Logo
+  4. Social Media Icons
+
 ### Deployment
 
 1. Test deploy to Heroku.
