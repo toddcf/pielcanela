@@ -92,7 +92,7 @@ nav {
 
 /* SOCIAL ICONS */
 
-.social {
+.links {
 
 	position: absolute;
 	bottom: 30px;
@@ -102,7 +102,39 @@ nav {
 
 }
 
-.social li {
+.schedule-footer {
+	display: inline-block;
+	list-style: none;
+}
+
+.schedule-footer a {
+	/*display: inline-block;*/
+	padding: 10px 20px;
+	font-size: 60%;
+	font-weight: 300;
+	text-decoration: none;
+	border-radius: 200px;
+	-webkit-transition: background-color 0.2s, border 0.2s, color 0.2s;
+	transition: background-color 0.2s, border 0.2s, color 0.2s; /* Transition takes 0.2 seconds. */
+}
+
+.schedule-footer a:link,
+.schedule-footer a:visited {
+
+	border: 2px solid #c0c0c0;
+	color: #c0c0c0;
+
+}
+
+.schedule-footer a:hover,
+.schedule-footer a:active {
+
+	border: 2px solid #fff;
+	color: #fff;
+
+}
+
+.social {
 
 	display: inline-block;
 	/*height: 100%;*/
@@ -113,8 +145,8 @@ nav {
 
 }
 
-.social li a:hover,
-.social li a:active {
+.social a:hover,
+.social a:active {
 
 	color: #fff;
 

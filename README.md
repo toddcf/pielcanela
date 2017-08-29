@@ -15,16 +15,14 @@ The Official Piel Canela Massage Therapy website.
 
 ### All
 
-- Logo SVG in bottom left of each section.
+1. Add "Schedule Now" button next to social icons at the bottom of each section (except for hero section and schedule now section).
+  1. Make sure it scrolls to that section.
+2. Confirm font.
 
 ### Sections
 
 1. Hero
-  - Position brand name.
   - Replace bg image with a video (once we have the video).
-  - Add buttons that scroll to two different sections:
-    - Schedule Now
-    - Learn More
 
 2. About the Therapist
 
@@ -39,7 +37,7 @@ The Official Piel Canela Massage Therapy website.
 
 4. Testimonials
 
-- Fixed-position background.
+- Test flexbox for mobile-responsiveness.
 
 5. Services and Rates / Gift Certificates
   - Delete Modalities.
@@ -68,7 +66,7 @@ The Official Piel Canela Massage Therapy website.
 
 ### Mobile Responsiveness
 
-### Dummy Checks
+### Final Checks
 
 1. Make sure the following are visible against all their various backgrounds:
   1. Chevrons
