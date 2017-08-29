@@ -26,7 +26,7 @@ nav {
 .nav-icon i {
 
 	font-size: 57px;
-	color: #fff;
+	color: #c0c0c0;
 	width: 57px;
 	height: 57px;
 	float: right;
@@ -152,4 +152,8 @@ nav {
 
 .chevron i {
 	font-size: 70px;
+}
+
+.chevron-inverse {
+	color: #000;
 }

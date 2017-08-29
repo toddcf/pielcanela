@@ -128,6 +128,8 @@ input[type=submit] {
 }
 
 .bio {
+	width: 65%;
+	margin: 0 auto;
 	margin-bottom: 100px;
 	padding-right: 150px;
 	padding-left: 50px;
@@ -152,6 +154,13 @@ input[type=submit] {
 
 /* TESTIMONIALS SECTION */
 #testimonials {
+
+	/*background-image: -webkit-gradient(linear, left top, left bottom, from(rgba(0, 0, 0, 0.4)), to(rgba(0, 0, 0, 0.4))) , url(../img/john-henry-canault-218381.jpg);*/
+	/*background-image: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)) , url(../img/john-henry-canault-218381.jpg);*/
+	background-image: url(../img/john-henry-canault-218381.jpg);
+	background-attachment: fixed;
+	background-size: cover; /*Shows entire image*/
+	background-position: center; /*Centers the background*/
 
 }
 
