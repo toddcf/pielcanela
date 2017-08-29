@@ -67,8 +67,18 @@ nav {
 	bottom: 0;
 	left: 0;
 	width: 200px;
-	color: #c0c0c0;
+	color: #000;
 
+}
+
+.piel-logo img,
+.piel-logo figcaption {
+	width: 100%;
+}
+
+.piel-logo figcaption {
+	font-size: 45%;
+	text-align: center;
 }
 
 /* SOCIAL ICONS */
