@@ -30,8 +30,8 @@ The Official Piel Canela Massage Therapy website.
 
 3. Benefits of Massage
   - Plain English.
-  - Overcome any objections (expensive, time-consuming, etc.).
   - Why they need a massage.
+  - Overcome any objections (expensive, time-consuming, etc.).
   - Why you are the best massage therapist for them.
 
 4. Testimonials
@@ -40,6 +40,7 @@ The Official Piel Canela Massage Therapy website.
 
 5. Services and Rates / Gift Certificates
   - Delete Modalities.
+  - Flexbox.
   - Forms of payment accepted.
 
 6. Schedule Now / Contact Info / Client Forms

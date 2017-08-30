@@ -152,6 +152,50 @@ input[type=submit] {
 	background-position: center; /*Centers the background*/
 }
 
+.benefits-row {
+	width: 80%;
+	margin: 0 auto;
+}
+
+.massage-benefits,
+.more-benefits {
+	width: 95%;
+	margin: 0 auto;
+	font-weight: 300;
+	text-align: justify;
+	line-height: 1.5;
+}
+
+.massage-benefits,
+.objections,
+.why-brenda {
+	min-height: 200px;
+	border: 1px solid #fff;
+	border-radius: 5px;
+	padding: 20px 20px 30px 20px;	
+}
+
+.massage-benefits,
+.why-brenda {
+	margin-bottom: 100px;
+
+}
+
+.massage-benefits p,
+.massage-benefits ul {
+	padding: 20px;
+}
+
+.massage-benefits li {
+	margin-left: 40px;
+	text-align: left;
+}
+
+.objections,
+.why-brenda {
+
+}
+
 /* TESTIMONIALS SECTION */
 #testimonials {
 
@@ -218,6 +262,18 @@ blockquote {
 /* SERVICES & RATES SECTION */
 #rates {
 	background-color: #000;
+}
+
+.rates-flex {
+
+	display: -webkit-box;
+
+	display: -ms-flexbox;
+
+	display: flex;
+	-ms-flex-wrap: wrap;
+	    flex-wrap: wrap;
+
 }
 
 /* SCHEDULE NOW SECTION */
