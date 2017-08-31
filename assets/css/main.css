@@ -15,6 +15,7 @@ html {
 body {
 	font-family: 'Lato', sans-serif, arial;
 	font-size: 20px;
+	font-weight: 300;
 }
 
 a {
@@ -282,6 +283,25 @@ blockquote {
 
 .services {
 	
+}
+
+.services ul,
+.payments ul {
+	list-style: none;
+	
+}
+
+.payments li {
+	display: inline;
+}
+
+.payment-cards {
+	width: 60px;
+}
+
+#cash-icon {
+	color: green;
+	font-size: 54px;
 }
 
 /* SCHEDULE NOW SECTION */
