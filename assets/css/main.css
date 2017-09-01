@@ -52,7 +52,7 @@ section {
 }
 
 .hero-button-box {
-	margin: 20px 0 0 120px;
+	margin: 20px 0 100px 120px;
 }
 
 .btn {
@@ -282,13 +282,26 @@ blockquote {
 }
 
 .services {
-	
+	border: 1px solid #fff;
+	border-radius: 5px;
+	padding: 15px;
+	height: auto;
 }
 
 .services ul,
 .payments ul {
 	list-style: none;
 	
+}
+
+ .side-by-side {
+ 	display: inline-block;
+ 	float: left;
+}
+
+.payments,
+.policies {
+	width: 99%;
 }
 
 .payments li {

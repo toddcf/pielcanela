@@ -25,8 +25,7 @@ The Official Piel Canela Massage Therapy website.
 
 2. About the Therapist
 
-  - CAMTC #30305
-  - ABMP #766335
+  - Style figcaption correctly.
 
 3. Benefits of Massage
   - Plain English.
@@ -36,12 +35,15 @@ The Official Piel Canela Massage Therapy website.
 
 4. Testimonials
 
-- Test flexbox for mobile-responsiveness.
+- Flexbox:
+  - Make sure flexbox is working correctly, especially at different screen sizes.
 
 5. Services and Rates / Gift Certificates
-  - Delete Modalities.
-  - Flexbox.
-  - Forms of payment accepted.
+
+  - Flexbox:
+    - Position the side-by-side boxes correctly.
+    - Make sure flexbox is working correctly, especially at different screen sizes.
+    - animate.css each payment logo, one after another.
 
 6. Schedule Now / Contact Info / Client Forms
 
@@ -83,5 +85,10 @@ The Official Piel Canela Massage Therapy website.
 
 ## Future Iterations:
 
+- Rebuild entire site with Bootstrap 4 and MD Bootstrap.
+  - Use cards in flexbox.
+  - Use hover and click effects.
+  - Use mobile side-nav.
+  - Use sticky nav.
 - Create MailChimp list and add signup form (and icon) to this website.
 - Footer: Correctly center social media icons.
